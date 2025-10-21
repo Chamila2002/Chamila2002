@@ -83,7 +83,7 @@ Focused on developing **AI-driven web applications** using **Next.js** and **Nod
 
 ### 🐍 GitHub Contribution Snake  
 <p align="center">
-  <img src="https://github.com/your-github-username/Chamila2002/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Chamila2002/generate-snake-game-from-github-contribution-grid/blob/output/snake.svg" alt="GitHub Snake Light" />
 </p>
 
 ---
