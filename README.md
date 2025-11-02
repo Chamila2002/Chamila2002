@@ -61,6 +61,20 @@ Focused on developing **AI-driven web applications** using **Next.js** and **Nod
 
 ---
 
+### 📈 GitHub Overview
+
+#### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilaDeSilvaKarunanayaka&layout=compact&theme=tokyonight" />
+</p>
+
+#### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChamilaDeSilvaKarunanayaka&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:kdchamiladesilva@gmail.com">
