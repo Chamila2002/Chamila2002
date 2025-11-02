@@ -78,7 +78,7 @@ Focused on developing **AI-driven web applications** using **Next.js** and **Nod
 
 ### 🟩 GitHub Contribution
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=ChamilaDeSilvaKarunanayaka&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamilaDeSilvaKarunanayaka&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
