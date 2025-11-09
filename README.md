@@ -5,18 +5,18 @@
 ---
 
 ### 🧠 About Me  
-I'm a **Software Engineering undergraduate** at **Sabaragamuwa University of Sri Lanka**, passionate about building **modern, full-stack web applications** and integrating **AI-powered functionalities**.  
-I specialize in creating **seamless user experiences**, focusing on **performance, scalability, and clean code**.
+I'm a **Software Engineering undergraduate** at **Sabaragamuwa University of Sri Lanka**, passionate about building **modern, full-stack web applications** and integrating **AI-powered features**.  
+I love crafting **clean, scalable, and high-performance solutions** with a focus on **user experience** and **efficient architecture**.
 
-- 🌱 Currently learning **Python**  
+- 🌱 Currently learning **Python** to enhance backend & AI integration  
 - 💡 Interested in **AI + Web Development**  
-- 🎯 Goal: Become a skilled **Software Engineer**  
-- 🤝 Open to **Software Engineering internship opportunities**  
-- ⚡ Fun fact: I love turning ideas into working digital products!
+- 🎯 Goal: Become a **Skilled Software Engineer** capable of solving real-world problems  
+- 🤝 Open to **Software Engineering Internship Opportunities**  
+- ⚡ Fun Fact: I enjoy turning creative ideas into working digital products!
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack  
 
 #### 💻 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -48,13 +48,14 @@ I specialize in creating **seamless user experiences**, focusing on **performanc
 
 ---
 
-### 🚀 Current Focus
-Currently learning **Python** to enhance backend and AI integration skills.  
-Focused on developing **AI-driven web applications** using **Next.js** and **Node.js**.
+### 🚀 Current Focus  
+🔹 Exploring **Python** for backend automation and AI model integration  
+🔹 Building **AI-driven web apps** using **Next.js**, **Node.js**, and **Gemini AI APIs**  
+🔹 Learning how to scale projects for performance and reliability  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChamilaDeSilvaKarunanayaka&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamilaDeSilvaKarunanayaka&theme=tokyonight" />
@@ -62,40 +63,40 @@ Focused on developing **AI-driven web applications** using **Next.js** and **Nod
 
 ---
 
-### 📈 GitHub Overview
+### 📈 GitHub Overview  
 
-#### 🔥 Most Used Languages
+#### 🔥 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilaDeSilvaKarunanayaka&layout=compact&theme=tokyonight" />
 </p>
 
-#### 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChamilaDeSilvaKarunanayaka&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 🟩 GitHub Contribution
+### 🟩 GitHub Contribution  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamilaDeSilvaKarunanayaka&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ChamilaDeSilvaKarunanayaka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:kdchamiladesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/ChamilaDeSilvaKarunanayaka" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ChamilaDeSilvaKarunanayaka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kdchamiladesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/ChamilaDeSilvaKarunanayaka" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-### ✨ Quote
-> “The best way to predict the future is to create it.” – Peter Drucker
+### ✨ Quote  
+> “The best way to predict the future is to create it.” – Peter Drucker  
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my projects and connect with me.**
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my projects and connect — let’s build something amazing together 🚀
