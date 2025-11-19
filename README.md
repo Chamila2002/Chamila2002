@@ -100,3 +100,10 @@ I love crafting **clean, scalable, and high-performance solutions** with a focus
 
 ⭐ **Thanks for visiting my profile!**  
 Feel free to explore my projects and connect — let’s build something amazing together 🚀
+
+---
+
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" width="100%">
+</p>
