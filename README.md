@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm Dilshan Chamila</h1>
+<h1 align="center">👋 Hey, I'm DCDS Karunanayaka</h1>
 <h3 align="center">💻 BSc (Hons) Software Engineering Undergraduate | Freelance Full-Stack Developer | Building Scalable Web & AI-Powered Applications</h3>
 
 ---
