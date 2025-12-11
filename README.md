@@ -1,50 +1,50 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm Dilshan Chamila</h1>
-<h3 align="center">💻 BSc (Hons) Software Engineering Undergraduate | Freelance Full-Stack Developer | Building Scalable Web & AI-Powered Applications</h3>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=70A5FD&center=true&vCenter=true&width=550&lines=Hey+I'm+Dilshan+Chamila;Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%2B+Web+Development+Enthusiast;Building+Scalable+Web+%26+AI+Apps" />
+</h1>
 
 ---
 
 ### 🧠 About Me  
-I'm a **Software Engineering undergraduate** at **Sabaragamuwa University of Sri Lanka**, passionate about building **modern, full-stack web applications** and integrating **AI-powered features**.  
-I love crafting **clean, scalable, and high-performance solutions** with a focus on **user experience** and **efficient architecture**.
+I'm a **BSc (Hons) Software Engineering Undergraduate** passionate about building **modern full-stack applications**, integrating **AI**, and creating **scalable, high-performance systems**.
 
-- 🌱 Currently learning **Python** to enhance backend & AI integration  
-- 💡 Interested in **AI + Web Development**  
+- 🔭 Currently exploring **Python + AI integrations**  
+- ⚙️ Skilled in **Next.js, Node.js, Drizzle ORM, PostgreSQL**  
+- 💡 Interested in **AI-driven web applications**  
 - 🎯 Goal: Become a **Skilled Software Engineer** capable of solving real-world problems  
-- 🤝 Open to **Software Engineering Internship Opportunities**  
-- ⚡ Fun Fact: I enjoy turning creative ideas into working digital products!
+- 🤝 Open to **Internship Opportunities**  
+- ⚡ I love turning creative ideas into real products
 
 ---
 
-### 🧰 Tech Stack  
+## 🧰 Tech Stack
 
-#### 💻 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white)
+### 🚀 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-#### 🗄️ Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
+### 🗄 Databases & ORMs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge)
 
-#### 🤖 AI & APIs
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)
+### 🤖 AI & Developer APIs
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google)
+![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-FF6F00?style=for-the-badge)
 
-#### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -55,7 +55,8 @@ I love crafting **clean, scalable, and high-performance solutions** with a focus
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChamilaDeSilvaKarunanayaka&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamilaDeSilvaKarunanayaka&theme=tokyonight" />
@@ -63,41 +64,47 @@ I love crafting **clean, scalable, and high-performance solutions** with a focus
 
 ---
 
-### 📈 GitHub Overview  
-
-#### 🔥 Most Used Languages  
+## 📈 Languages Overview  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilaDeSilvaKarunanayaka&layout=compact&theme=tokyonight" />
 </p>
 
-#### 🏆 GitHub Trophies  
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChamilaDeSilvaKarunanayaka&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChamilaDeSilvaKarunanayaka&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### 🟩 GitHub Contribution  
+## 🟩 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamilaDeSilvaKarunanayaka&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamilaDeSilvaKarunanayaka&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/dcdskarunanayaka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kdchamiladesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/ChamilaDeSilvaKarunanayaka" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/dcdskarunanayaka"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+  <a href="mailto:kdchamiladesilva@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
+  <a href="https://github.com/ChamilaDeSilvaKarunanayaka"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
 </p>
 
 ---
 
-### ✨ Quote  
-> “The best way to predict the future is to create it.” – Peter Drucker  
+## ✨ Quote  
+> *“The best way to predict the future is to create it.” – Peter Drucker*
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my projects and connect — let’s build something amazing together 🚀
+<!-- Footer Waves -->
+<img src="https://raw.githubusercontent.com/trinib/awesomewm-config/master/.github/images/waves.svg" width="100%" />
 
+<p align="center">⭐ Thanks for visiting my profile! Let’s build something amazing together.</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChamilaDeSilvaKarunanayaka&color=blueviolet&style=flat-square">
+</p>
