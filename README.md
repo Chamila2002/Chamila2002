@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=70A5FD&center=true&vCenter=true&width=550&lines=Hey+I'm+Dilshan+Chamila;Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%2B+Web+Development+Enthusiast;Building+Scalable+Web+%26+AI+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=70A5FD&center=true&vCenter=true&width=550&lines=Hey+I'm+Dilshan+Chamila;Full-Stack+Software+Developer; Aspiring+AI/ML+Engineer;AI+%2B+Web+Development+Enthusiast;Building+Scalable+Web+%26+AI+Apps;BSc+(Hons)+Software+Engineering" />
 </h1>
 
 ---
